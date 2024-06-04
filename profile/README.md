@@ -2,8 +2,8 @@
 
 <img src="https://user-images.githubusercontent.com/44025989/124956721-3ae62200-e053-11eb-9d9b-fad02213f127.gif" width="40%" height="30%" title="" alt="Dipex"></img><br/>
 
-비디오 플레이어를 포함한 간단한 웹 페이지 제작<br/>
-스크립트를 포함한 페이지
+주머니속 키오스크<br/>
+
 
 ## 🛠 Stack 🛠
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
@@ -32,7 +32,6 @@
 | Stack | Technique | Role Officer |
 | :--------------------------: | :-----------------------------------------------: | :------------------------------: |
 | <center> Front-End </center> | <center> AndroidStudio(Xml/Java) </center> | <center> 한성진 ,정성욱 </center> |
-| <center>  Back-End </center> | <center> Node.js,EC2,Django</center>                  | <center> 정성욱,강주형 </center> |
 | <center>  Back-End </center> | <center> Node.js,EC2,Django</center>                  | <center> 정성욱,강주형 </center> |
 | <center>  Embedded-System </center> | <center> Python</center>                  | <center> 정민우 </center> |
 | <center>  AI </center> | <center> Python,FastAPI</center>                  | <center> 강주형 </center> |
