@@ -22,10 +22,10 @@
 
 |           Name           |        Student Number       |
 | :----------------------: | :-------------------------: |
-| <center> 김지형 (⚙ Back-End ⚙) </center> | <center> 32141**3 </center> |
-| <center> **조창연🎈 (⚙ Front-End ⚙)** </center> | <center> **32144548** </center> |
-| <center> 김은진 (⚙ Front-End ⚙) </center> | <center> 32170**6 </center> |
-| <center> 정유경 (⚙ Back-End ⚙) </center> | <center> 32174**2 </center> |
+| <center> 한성진 (⚙ Front-End ⚙) </center> | <center> 20190877 </center> |
+| <center> 강주형 (⚙ Ai,Back-End ⚙)** </center> | <center> 20190810 </center> |
+| <center> 정성욱 (⚙ Front-End ⚙) </center> | <center> 20210871 </center> |
+| <center> 정민우 (⚙ Embedded-system ⚙) </center> | <center> 20190871 </center> |
 
 ## ⚙ Used Technique
 
