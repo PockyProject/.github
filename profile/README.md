@@ -1,6 +1,3 @@
-## Hi there 👋
-
-<!--
 # 📌 2019-2 Capstone-Design
 
 <img src="https://user-images.githubusercontent.com/44025989/124956721-3ae62200-e053-11eb-9d9b-fad02213f127.gif" width="40%" height="30%" title="" alt="Dipex"></img><br/>
@@ -41,12 +38,3 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 This project was open source web framework with [Django](https://github.com/django/django).
 ## ⚙ Final Result
 https://roamgom.github.io/front_dipex/
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
