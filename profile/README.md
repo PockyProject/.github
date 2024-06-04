@@ -2,19 +2,21 @@
 
 <p align = "center"><img src="https://github.com/PockyProject/.github/assets/122958854/2c97fa5d-3bc4-4094-8149-a6cea925aafa"></img></p>
 
-<p align = "center">주머니속 키오스크</p>
+<p align = "center">주머니속 키오스크
+<p align = "center">
+
 <img width="966" src="https://github.com/PockyProject/.github/assets/122958854/56e0a389-98bc-4922-a6c3-d1d7ada00e2f">
 <a href="https://github.com/cdjsdjwkfgkrhtlvek">
 <img src="https://img.shields.io/badge/Github%20%ED%95%9C%EC%84%B1%EC%A7%84-181717?style=flat&logo=GitHub&logoColor=white"></a>
-<a href="https://github.com/yolominwoo">
+<a href="https://github.com/yolominwoo">           
 <img src="https://img.shields.io/badge/Github%20%EC%A0%95%EB%AF%BC%EC%9A%B0-181717?style=flat&logo=GitHub&logoColor=white"></a>
-<a href="https://github.com/conquest2023">
+
+<a href="https://github.com/conquest2023">        
 <img src="https://img.shields.io/badge/Github%20%EA%B0%95%EC%A3%BC%ED%98%95-181717?style=flat&logo=GitHub&logoColor=white"></a>
-<a href="https://github.com/centerfoward">
+
+  <a href="https://github.com/centerfoward">        
 <img src="https://img.shields.io/badge/Github%20%EC%A0%95%EC%84%B1%EC%9A%B1-181717?style=flat&logo=GitHub&logoColor=white"></a>
-
-
-
+</p>
 
 ## 🛠 Stack 🛠
 <p align="center">
@@ -28,7 +30,7 @@
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white"/></a>
 </p>
 <p align="center">
-<a href="https://www.djangoproject.com/" target="_blank"><img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
+<a href="https://www.djangoproject.com/" target="_blank"><img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/></a>  
 <img src="https://img.shields.io/badge/Retrofit-48b983?style=flat-square&logo=Android&logoColor=white">
 <img src="https://img.shields.io/badge/ZXING-343434?style=flat-square&logo=&logoColor=white"/>
@@ -52,7 +54,7 @@
 | <center>  AI </center> | <center> Python,FastAPI</center>                  | <center> 강주형 </center> |
 
 
-## 4. 역할 분담
+## 1. 역할 분담
 
 ###  한성진
 
@@ -85,4 +87,17 @@
     - Gson Converter를 사용해서 서버에서 받아온 Json 데이터를 역직렬화
     
 <br>
+
+## 2. 하드웨어 구성도
+
+
+
+<img width="832" alt="KakaoTalk_Photo_2024-06-04-19-46-27" src="https://github.com/PockyProject/.github/assets/122958854/09a741e9-41be-43b2-b31d-e36e5682925c">
+
+
+
+## 3. 소프트웨어 구성도
+
+
+<img width="890" alt="KakaoTalk_Photo_2024-06-04-19-45-28" src="https://github.com/PockyProject/.github/assets/122958854/5f11e279-57b1-4d53-bfc1-ec20e57d23b5">
 
