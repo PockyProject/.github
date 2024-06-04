@@ -1,42 +1,72 @@
-# 📌 2019-2 Capstone-Design
+# 📌 2024 전공종합설계
 
-<img src= ![KakaoTalk_Photo_2024-06-04-17-07-10](https://github.com/PockyProject/.github/assets/122958854/2c97fa5d-3bc4-4094-8149-a6cea925aafa) ></img><br/>
+<p align = "center"><img src="https://github.com/PockyProject/.github/assets/122958854/2c97fa5d-3bc4-4094-8149-a6cea925aafa"></img></p>
 
-주머니속 키오스크<br/>
-
+                                     주머니속 키오스크
+<img width="966" src="https://github.com/PockyProject/.github/assets/122958854/56e0a389-98bc-4922-a6c3-d1d7ada00e2f"><br/> @conquest2023](https://github.com/conquest2023) | 
 
 ## 🛠 Stack 🛠
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
-<a href="https://ko.reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/ReactJS-61DAFB?style=flat-square&logo=React&logoColor=white"/></a> 
-<a href="https://github.com/sampotts/plyr" target="_blank"><img src="https://img.shields.io/badge/plyr-1AB7EA?style=flat-square&logo=Vimeo&logoColor=white"/></a><br>
+<p align="center">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flatsquare&logo=JavaScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<a href="https://www.djangoproject.com/" target="_blank"><img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
-<a href="https://www.nginx.com/" target="_blank"><img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white"/></a><br>
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/></a>
+
+<p align="center">
 <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
-<a href="https://aws.amazon.com/ko/" target="_blank"><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a> 
-<a href="https://gunicorn.org/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS24iIQUg5hYsYyFavhPKXQJuXstAUjWt6maNYu-wWE6240yxhxDulIejacyWqidzwT2w&usqp=CAU" width="75" height="20" /></a>
-
-## ⚙ Organization
-
-|           Name           |        Student Number       |
-| :----------------------: | :-------------------------: |
-| <center> 한성진 (⚙ Front-End ⚙) </center> | <center> 20190877 </center> |
-| <center> 강주형 (⚙ Ai,Back-End ⚙)** </center> | <center> 20190810 </center> |
-| <center> 정성욱 (⚙ Front-End ⚙) </center> | <center> 20210871 </center> |
-| <center> 정민우 (⚙ Embedded-System ⚙) </center> | <center> 20190871 </center> |
-
-## ⚙ Used Technique
+<img src="https://img.shields.io/badge/Android%20Studio-A4C639?style=flat-square&logo=android&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white"/></a>
+</p>
+<p align="center">
+<a href="https://www.djangoproject.com/" target="_blank"><img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/></a>  
+<img src="https://img.shields.io/badge/Retrofit-48b983?style=flat-square&logo=Android&logoColor=white">
+<img src="https://img.shields.io/badge/ZXING-343434?style=flat-square&logo=&logoColor=white"/></a>
+</p>
+<p align="center">
+<a>
+<img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square&logo=amazonWebServices&logoColor=white">
+<img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=Raspberrypi&logoColor=white"/>
+</p>
+  
+ ⚙ Used Technique
 
 | Stack | Technique | Role Officer |
 | :--------------------------: | :-----------------------------------------------: | :------------------------------: |
-| <center> Front-End </center> | <center> AndroidStudio(Xml/Java) </center> | <center> 한성진 ,정성욱 </center> |
-| <center>  Back-End </center> | <center> Node.js,EC2,Django</center>                  | <center> 정성욱,강주형 </center> |
+| <center> Front-End </center> | <center> AndroidStudio(Xml/Java) </center> | <center> 한성진 ,정성욱 </center>                     |
+| <center>  Back-End </center> | <center> Node.js,EC2  </center>                  | <center> 정성욱,강주형 </center> |
 | <center>  Embedded-System </center> | <center> Python</center>                  | <center> 정민우 </center> |
 | <center>  AI </center> | <center> Python,FastAPI</center>                  | <center> 강주형 </center> |
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). <br/>
-This project was open source web framework with [Django](https://github.com/django/django).
-## ⚙ Final Result
-https://roamgom.github.io/front_dipex/
+
+## 4. 역할 분담
+
+###  한성진
+
+- **UI**
+    - 페이지:로그인화면,QR 생성
+- **기능**
+    - 유저 검색, 게시글 등록 및 수정, 게시글 상세 확인, 댓글 등록, 팔로워 게시글 불러오기, 좋아요 기능
+
+<br>
+    
+###  정민우
+
+- **기능**
+    - 
+<br>
+
+### 강주형
+- **기능**
+  
+
+<br>
+
+### 정성욱
+
+- **UI**
+    - 페이지 : 온보딩, 메인화면, 즐겨찾기, 최근 주문 내역
+- **기능**
+    - 팔로우 & 언팔로우, 로그아웃, 하단 모달창, 댓글 삭제, 게시글 삭제, 상품 삭제, 사용자 게시글 앨범형 이미지, 탑 배너 뒤로가기 버튼, Alert 모달
+    
+<br>
+
