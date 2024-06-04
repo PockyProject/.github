@@ -25,14 +25,17 @@
 | <center> 한성진 (⚙ Front-End ⚙) </center> | <center> 20190877 </center> |
 | <center> 강주형 (⚙ Ai,Back-End ⚙)** </center> | <center> 20190810 </center> |
 | <center> 정성욱 (⚙ Front-End ⚙) </center> | <center> 20210871 </center> |
-| <center> 정민우 (⚙ Embedded-system ⚙) </center> | <center> 20190871 </center> |
+| <center> 정민우 (⚙ Embedded-System ⚙) </center> | <center> 20190871 </center> |
 
 ## ⚙ Used Technique
 
-| Full Stack | Technique | Role Officer |
+| Stack | Technique | Role Officer |
 | :--------------------------: | :-----------------------------------------------: | :------------------------------: |
-| <center> Front-End </center> | <center> ReactJS (HTML/CSS/Java Script) </center> | <center> 조창연, 김은진 </center> |
-| <center>  Back-End </center> | <center> Python Django </center>                  | <center> 김지형, 정유경 </center> |
+| <center> Front-End </center> | <center> AndroidStudio(Xml/Java) </center> | <center> 한성진 ,정성욱 </center> |
+| <center>  Back-End </center> | <center> Node.js,EC2,Django</center>                  | <center> 정성욱,강주형 </center> |
+| <center>  Back-End </center> | <center> Node.js,EC2,Django</center>                  | <center> 정성욱,강주형 </center> |
+| <center>  Embedded-System </center> | <center> Python</center>                  | <center> 정민우 </center> |
+| <center>  AI </center> | <center> Python,FastAPI</center>                  | <center> 강주형 </center> |
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). <br/>
 This project was open source web framework with [Django](https://github.com/django/django).
