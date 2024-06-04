@@ -4,8 +4,15 @@
 
 <p align = "center">주머니속 키오스크</p>
 <img width="966" src="https://github.com/PockyProject/.github/assets/122958854/56e0a389-98bc-4922-a6c3-d1d7ada00e2f">
-<a href="https://github.com/conquest2023">
+<a href="https://github.com/cdjsdjwkfgkrhtlvek">
 <img src="https://img.shields.io/badge/Github%20%ED%95%9C%EC%84%B1%EC%A7%84-181717?style=flat&logo=GitHub&logoColor=white"></a>
+<a href="https://github.com/yolominwoo">
+<img src="https://img.shields.io/badge/Github%20%EC%A0%95%EB%AF%BC%EC%9A%B0-181717?style=flat&logo=GitHub&logoColor=white"></a>
+<a href="https://github.com/conquest2023">
+<img src="https://img.shields.io/badge/Github%20%EA%B0%95%EC%A3%BC%ED%98%95-181717?style=flat&logo=GitHub&logoColor=white"></a>
+<a href="https://github.com/centerfoward">
+<img src="https://img.shields.io/badge/Github%20%EC%A0%95%EC%84%B1%EC%9A%B1-181717?style=flat&logo=GitHub&logoColor=white"></a>
+
 
 
 
