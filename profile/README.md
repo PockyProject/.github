@@ -1,6 +1,6 @@
 # 📌 2019-2 Capstone-Design
 
-<img src="https://user-images.githubusercontent.com/44025989/124956721-3ae62200-e053-11eb-9d9b-fad02213f127.gif" width="40%" height="30%" title="" alt="Dipex"></img><br/>
+<img src= ![KakaoTalk_Photo_2024-06-04-17-07-10](https://github.com/PockyProject/.github/assets/122958854/2c97fa5d-3bc4-4094-8149-a6cea925aafa) ></img><br/>
 
 주머니속 키오스크<br/>
 
