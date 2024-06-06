@@ -143,15 +143,15 @@
 ---
 ## 2-2. 기능 구성
 
-- **Qr코드 공유 기능**
-  -
-
+- **Qr코드 공유 기능** <br>
+  -사용자가 메뉴를 선택해 생성된 Qr코드를 SNS,메신저를 통해 다른 사용자에게 공유
 <img width="720" src="https://github.com/PockyProject/App/assets/52391699/ae008970-ba93-4a2e-8de5-7cc61d9f986b">
 
-- **AI 메뉴 추천 기능**
 
+
+- **AI 메뉴 추천 기능** <br>
+  -사용자의 주문내역을 토대로 AI를 활용하여 사용자에게 맞춤 메뉴 추천
 <img width="720" src="https://github.com/PockyProject/App/assets/52391699/4b10d88c-37a3-4dd3-950a-51de883a7532">
-
 
 
 ### **3️⃣. 아키텍처 구성도**
