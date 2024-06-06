@@ -143,6 +143,17 @@
 ---
 ## 2-2. 기능 구성
 
+- **Qr코드 공유 기능**
+  -
+
+<img width="720" src="https://github.com/PockyProject/App/assets/52391699/ae008970-ba93-4a2e-8de5-7cc61d9f986b">
+
+- **AI 메뉴 추천 기능**
+
+<img width="720" src="https://github.com/PockyProject/App/assets/52391699/4b10d88c-37a3-4dd3-950a-51de883a7532">
+
+
+
 ### **3️⃣. 아키텍처 구성도**
 
 ## 3-1. 하드웨어 구성도
