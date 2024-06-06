@@ -49,7 +49,7 @@
 | Stack | Technique | Role Officer |
 | :--------------------------: | :-----------------------------------------------: | :------------------------------: |
 | <center> Front-End </center> | <center> AndroidStudio(Xml/Java) </center> | <center> 한성진 ,정성욱 </center>                     |
-| <center>  Back-End </center> | <center> Node.js,EC2  </center>                  | <center> 정성욱,강주형 </center> |
+| <center>  Back-End </center> | <center> Node.js,AWS(EC2)  </center>                  | <center> 정성욱,강주형 </center> |
 | <center>  Embedded-System </center> | <center> Python</center>                  | <center> 정민우 </center> |
 | <center>  AI </center> | <center> Python,FastAPI</center>                  | <center> 강주형 </center> |
 
@@ -99,33 +99,35 @@
 
 ###  한성진
 
-- **UI**
-    - 페이지:로그인화면,QR 생성
-- **역할**
+- **현재까지 진행한 업무**
     - KakaoLoginApI를 사용해서 사용자 정보 생성
+    - ZXing 라이브러리를 사용해서 QR 코드 출력 기능 완성
 
 <br>
     
 ###  정민우
 
-- **역할**
-    - Zxing라이브러리를 사용하여 사용자가 선택한 메뉴를 QR 코드로 변환하여 출력
+- **현재까지 진행한 업무**
+    - ZXing 라이브러리를 사용해서 QR 코드 출력 기능 완성
+    - 프로토타입 키오스크 완성
 <br>
 
 ### 강주형 
 
-- **역할**
+- **현재까지 진행한 업무**
     - Node.js에서 MysqlDB와 연결하고, MysqlDB와 앱간 통신을 위해 API를 구현
-  
+    - Aws Ec2 환경 구축
+    - 추천 알고리즘 구현 중 
 <br>
 
 ### 정성욱
 
-- **UI**
-    - 페이지 : 온보딩, 메인화면, 즐겨찾기, 최근 주문 내역
-- **역할**
+- **현재까지 진행한 업무**
     - Retrofit2 라이브러리를 사용해서 서버와 연결
-    - Gson Converter를 사용해서 서버에서 받아온 Json 데이터를 역직렬화
+    - Node.js에서 MysqlDB와 연결하고, MysqlDB와 앱간 통신을 위해 API를 구현
+    - Aws Ec2 환경 구축
+    - 온보딩, 메인화면 완성
+    - 즐겨찾기, 최근 주문 내역 기능 구현 중 
     
 <br>
 
