@@ -49,7 +49,7 @@
 | Stack | Technique | Role Officer |
 | :--------------------------: | :-----------------------------------------------: | :------------------------------: |
 | <center> Front-End </center> | <center> AndroidStudio(Xml/Java) </center> | <center> 한성진 ,정성욱 </center>                     |
-| <center>  Back-End </center> | <center> Node.js,AWS(EC2)  </center>                  | <center> 정성욱,강주형 </center> |
+| <center>  Back-End </center> | <center> SpringBoot3,AWS(EC2)  </center>                  | <center> 정성욱,강주형 </center> |
 | <center>  Embedded-System </center> | <center> Python</center>                  | <center> 정민우 </center> |
 | <center>  AI </center> | <center> Python,FastAPI</center>                  | <center> 강주형 </center> |
 
@@ -115,7 +115,7 @@
 ### 강주형 
 
 - **현재까지 진행한 업무**
-    - Node.js에서 MysqlDB와 연결하고, MysqlDB와 앱간 통신을 위해 API를 구현
+    - SpringBoot의 Jpa를 활용하여 MysqlDB와 연결하고, MysqlDB와 앱간 통신을 위해 API를 구현
     - Aws Ec2 환경 구축
     - 추천 알고리즘 구현 중 
 <br>
