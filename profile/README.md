@@ -20,30 +20,33 @@
 
 ## 🛠 Stack 🛠
 <p align="center">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flatsquare&logo=JavaScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/></a>
 
 <p align="center">
-<a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Android%20Studio-A4C639?style=flat-square&logo=android&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flatsquare&logo=intellij-idea&logoColor=white"/>
 </p>
 <p align="center">
-<a href="https://www.djangoproject.com/" target="_blank"><img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=flatsquare&logo=springboot&logoColor=white">
+<a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/></a>  
 <img src="https://img.shields.io/badge/Retrofit-48b983?style=flat-square&logo=Android&logoColor=white">
-<img src="https://img.shields.io/badge/ZXING-343434?style=flat-square&logo=&logoColor=white"/>
 </a>
-<img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=Node.js&logoColor=white"/>
 </a>
 </p>
 <p align="center">
 <a>
-<img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square&logo=amazonWebServices&logoColor=white">
+<img src="https://img.shields.io/badge/ZXING-343434?style=flat-square&logo=&logoColor=white"/>
 <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=Raspberrypi&logoColor=white"/>
 </p>
-  
+
+<p align="center">
+<img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square&logo=amazonWebServices&logoColor=white">
+<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white"/>
+<img src ="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=white"/>
+</p> 
+
  ⚙ Used Technique
 
 | Stack | Technique | Role Officer |
