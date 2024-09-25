@@ -108,6 +108,7 @@
 ###  정민우
 
 - **현재까지 진행한 업무**
+- 
     - ZXing 라이브러리를 사용해서 QR 코드 출력 기능 완성
     - 프로토타입 키오스크 완성
 <br>
@@ -124,9 +125,7 @@
 
 - **현재까지 진행한 업무**
     - Retrofit2 라이브러리를 사용해서 서버와 연결
-    - Node.js에서 MysqlDB와 연결하고, MysqlDB와 앱간 통신을 위해 API를 구현
     - Aws Ec2 환경 구축
-    - 온보딩, 메인화면 완성
     - 즐겨찾기, 최근 주문 내역 기능 구현 중 
     
 <br>
@@ -159,13 +158,7 @@
 ## 3-1. 하드웨어 구성도
 
 
-<p align="center">
-<img width="832" alt="KakaoTalk_Photo_2024-06-04-19-46-27" src="https://github.com/PockyProject/.github/assets/122958854/09a741e9-41be-43b2-b31d-e36e5682925c">
-</p>
-
 
 ## 3-2. 소프트웨어 구성도
 
-<p align="center">
-<img width="890" alt="KakaoTalk_Photo_2024-06-04-19-45-28" src="https://github.com/PockyProject/.github/assets/122958854/5f11e279-57b1-4d53-bfc1-ec20e57d23b5">
-</p>
+
