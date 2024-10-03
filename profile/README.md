@@ -75,6 +75,15 @@
 
 1.  아키텍처 구성도
 
+
+**4️⃣,ERD**
+
+1.
+
+**5️⃣, API 명세서**
+
+1. FrontEnd
+2. BackEnd
 ---
 
 ### **1️⃣, 프로젝트 개요**
@@ -191,5 +200,43 @@
 ## 3-1. 아키텍처 구성도
 
 ![image](https://github.com/user-attachments/assets/9e20788b-343e-44b8-b1fb-a68671a3865f)
+
+---
+
+**4️⃣,ERD**
+
+---
+
+**5️⃣, 명세서**
+
+## 5-1. 기능명세서
+
+
+| Index | Function | Presentation | Description | Library | Responsibility | 
+| :--------------------------: | :----------------------------------------: | :------------------------------: |:------------------------------: |:------------------------------:| :------------------------------:|
+| <center> 1 </center> | <center> Login </center> | <center> LoginActivity </center> | <center> 로그인 기능 </center> | <center> Kakao Login API </center> | <center> 한성진 </center> |
+| <center> 2 </center> | <center> QR 출력 </center> | <center> 다수 </center> | <center> QR코드 생성 </center> |<center> ZXING </center> | <center> 정성욱,한성진 </center> |
+| <center> 3 </center> | <center> QR 공유 </center> | <center> favor,orderlist fragment </center> | <center> QR코드 공유 </center> |<center> Intent </center> | <center> 정성욱 </center> |
+| <center> 4 </center> | <center> 즐겨찾기 </center> | <center> favorfragment </center> | <center> 즐겨찾기 정보 RoomDB에서 불러오기 , QR 공유 </center> | <center> Room </center> | <center> 정성욱 </center> |
+| <center> 5 </center> | <center> 주문내역 </center> | <center> favorfragment </center> | <center> 즐겨찾기 정보 RoomDB에서 불러오기 , QR 공유</center> |<center> Room </center> | <center> 정성욱 </center> |
+| <center> 6 </center> | <center> 사용자 정보 저장 </center> | <center> LoginActivity </center> | <center> 사용자 정보를 서비스DB에 저장하여 인공지능 데이터 수집 및 제공 </center> | <center> - </center> | <center> 정성욱 </center> |
+| <center> 7 </center> | <center> 사용자 정보 불러오기 </center> | <center> LoginActivity </center> | <center> 서비스DB에 사용하기위해 사용자 정보 호출 </center> |<center> Kakao Login API </center> | <center> 정성욱 </center> |
+| <center> 8 </center> | <center>  </center> | <center>  </center> | <center></center> |<center></center> | <center></center> |
+
+
+
+## 5-2. API 명세서
+
+| Index | Method | URI | Function | Description|
+| :--------------------------: | :----------------------------------------: | :------------------------------: |:------------------------------: |:------------------------------:|
+| <center> 1 </center> | <center> Post </center> | <center> /user </center> | <center> 사용자 고유 아이디와 닉네임을 저장하는 기능 </center> | <center> </center> |
+| <center> 2 </center> | <center> Get </center> | <center> /favor/getfavor </center> | <center> 사용자 추천 메뉴를 가져오는 기능 </center> | <center>  </center> | 
+| <center> 3 </center> | <center> Post </center> | <center> /users/liked </center> | <center> 즐겨찾기메뉴를 저장하는 기능 </center> | <center> </center> | 
+| <center> 4 </center> | <center> Post </center> | <center> /users/post </center> | <center> 사용자가 주문한 내역을 저장하는 기능 </center> | <center> </center> | 
+| <center> 5 </center> | <center>  </center> | <center> </center> | <center> </center> | <center> </center> | 
+| <center> 6 </center> | <center> </center> | <center> </center> | <center> </center> | <center> </center> | 
+| <center> 7 </center> | <center> </center> | <center> </center> | <center> </center> | <center> </center> | 
+| <center> 8 </center> | <center> </center> | <center> </center> | <center> </center> | <center> </center> | 
+| <center> 9 </center> | <center> </center> | <center> </center> | <center> </center> | <center> </center> | 
 
 
