@@ -42,6 +42,7 @@
 </p>
 
 <p align="center">
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"> 
 <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square&logo=amazonWebServices&logoColor=white">
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white"/>
 <img src ="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=white"/>
