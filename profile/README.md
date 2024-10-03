@@ -221,22 +221,22 @@
 | <center> 5 </center> | <center> 주문내역 </center> | <center> favorfragment </center> | <center> 즐겨찾기 정보 RoomDB에서 불러오기 , QR 공유</center> |<center> Room </center> | <center> 정성욱 </center> |
 | <center> 6 </center> | <center> 사용자 정보 저장 </center> | <center> LoginActivity </center> | <center> 사용자 정보를 서비스DB에 저장하여 인공지능 데이터 수집 및 제공 </center> | <center> - </center> | <center> 정성욱 </center> |
 | <center> 7 </center> | <center> 사용자 정보 불러오기 </center> | <center> LoginActivity </center> | <center> 서비스DB에 사용하기위해 사용자 정보 호출 </center> |<center> Kakao Login API </center> | <center> 정성욱 </center> |
-| <center> 8 </center> | <center>  </center> | <center>  </center> | <center></center> |<center></center> | <center></center> |
+
 
 
 
 ## 5-2. API 명세서
 
-| Index | Method | URI | Function | Description|
-| :--------------------------: | :----------------------------------------: | :------------------------------: |:------------------------------: |:------------------------------:|
-| <center> 1 </center> | <center> Post </center> | <center> /user </center> | <center> 사용자 고유 아이디와 닉네임을 저장하는 기능 </center> | <center> </center> |
-| <center> 2 </center> | <center> Get </center> | <center> /favor/getfavor </center> | <center> 사용자 추천 메뉴를 가져오는 기능 </center> | <center>  </center> | 
-| <center> 3 </center> | <center> Post </center> | <center> /users/liked </center> | <center> 즐겨찾기메뉴를 저장하는 기능 </center> | <center> </center> | 
-| <center> 4 </center> | <center> Post </center> | <center> /users/post </center> | <center> 사용자가 주문한 내역을 저장하는 기능 </center> | <center> </center> | 
-| <center> 5 </center> | <center> Post </center> | <center> /feed/postfeed </center> | <center> 피드 저장 </center> | <center> </center> | 
-| <center> 6 </center> | <center> Get </center> | <center> /feed/getfeed </center> | <center> 피드 가져오기 </center> | <center> </center> | 
-| <center> 7 </center> | <center> Get </center> | <center> /comment/getcomment </center> | <center> 댓글 가져오기 </center> | <center> </center> | 
-| <center> 8 </center> | <center> Post </center> | <center> /comment/postcomment </center> | <center> 댓글 저장 </center> | <center> </center> | 
-| <center> 9 </center> | <center> </center> | <center> </center> | <center> </center> | <center> </center> | 
+| Index | Method | URI | Function | Description |  Responsibility | 
+| :--------------------------: | :----------------------------------------: | :------------------------------: |:------------------------------: |:------------------------------:|:------------------------------:|
+| <center> 1 </center> | <center> Post </center> | <center> /user </center> | <center> 사용자 고유 아이디와 닉네임을 저장하는 기능 </center> | <center> </center> | <center> 강주형 </center> |
+| <center> 2 </center> | <center> Get </center> | <center> /favor/getfavor </center> | <center> 사용자 추천 메뉴를 가져오는 기능 </center> | <center>  </center> | <center> 강주형 </center> |
+| <center> 3 </center> | <center> Post </center> | <center> /users/liked </center> | <center> 즐겨찾기메뉴를 저장하는 기능 </center> | <center> </center> | <center> 강주형 </center> |
+| <center> 4 </center> | <center> Post </center> | <center> /users/post </center> | <center> 사용자가 주문한 내역을 저장하는 기능 </center> | <center> </center> | <center> 강주형 </center> |
+| <center> 5 </center> | <center> Post </center> | <center> /feed/postfeed </center> | <center> 피드 저장 </center> | <center> </center> | <center> 강주형 </center> |
+| <center> 6 </center> | <center> Get </center> | <center> /feed/getfeed </center> | <center> 피드 가져오기 </center> | <center> </center> | <center> 강주형 </center> |
+| <center> 7 </center> | <center> Get </center> | <center> /comment/getcomment </center> | <center> 댓글 가져오기 </center> | <center> </center> | <center> 강주형 </center> |
+| <center> 8 </center> | <center> Post </center> | <center> /comment/postcomment </center> | <center> 댓글 저장 </center> | <center> </center> | <center> 강주형 </center> |
+
 
 
