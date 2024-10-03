@@ -205,6 +205,8 @@
 
 **4️⃣,ERD**
 
+![image](https://github.com/user-attachments/assets/6f31e5ac-5c31-402f-a235-8b9f3416a79e)
+
 ---
 
 **5️⃣, 명세서**
