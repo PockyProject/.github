@@ -205,7 +205,7 @@
 
 **4️⃣,ERD**
 
-![image](https://github.com/user-attachments/assets/880b5c93-6012-4a82-99f0-2113e0aeec7d)
+![image](https://github.com/user-attachments/assets/ae2a73a4-a920-49e8-976a-72f7d0b53ccd)
 
 ---
 
