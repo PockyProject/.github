@@ -233,10 +233,10 @@
 | <center> 2 </center> | <center> Get </center> | <center> /favor/getfavor </center> | <center> 사용자 추천 메뉴를 가져오는 기능 </center> | <center>  </center> | 
 | <center> 3 </center> | <center> Post </center> | <center> /users/liked </center> | <center> 즐겨찾기메뉴를 저장하는 기능 </center> | <center> </center> | 
 | <center> 4 </center> | <center> Post </center> | <center> /users/post </center> | <center> 사용자가 주문한 내역을 저장하는 기능 </center> | <center> </center> | 
-| <center> 5 </center> | <center>  </center> | <center> </center> | <center> </center> | <center> </center> | 
-| <center> 6 </center> | <center> </center> | <center> </center> | <center> </center> | <center> </center> | 
-| <center> 7 </center> | <center> </center> | <center> </center> | <center> </center> | <center> </center> | 
-| <center> 8 </center> | <center> </center> | <center> </center> | <center> </center> | <center> </center> | 
+| <center> 5 </center> | <center> Post </center> | <center> /feed/postfeed </center> | <center> 피드 저장 </center> | <center> </center> | 
+| <center> 6 </center> | <center> Get </center> | <center> /feed/getfeed </center> | <center> 피드 가져오기 </center> | <center> </center> | 
+| <center> 7 </center> | <center> Get </center> | <center> /comment/getcomment </center> | <center> 댓글 가져오기 </center> | <center> </center> | 
+| <center> 8 </center> | <center> Post </center> | <center> /comment/postcomment </center> | <center> 댓글 저장 </center> | <center> </center> | 
 | <center> 9 </center> | <center> </center> | <center> </center> | <center> </center> | <center> </center> | 
 
 
