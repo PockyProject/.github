@@ -164,23 +164,23 @@
 ## 2-2. 기능 구성
 
 - **사용자 선택메뉴 QR코드화** <br>
-  -사용자가 선택한 메뉴를 QR코드안에 담아 매장 내 키오스크에 스캔 시 사용자가 선택한 메뉴가 키오스크로 전송
+  - 사용자가 선택한 메뉴를 QR코드안에 담아 매장 내 키오스크에 스캔 시 사용자가 선택한 메뉴가 키오스크로 전송
 <img width="420" alt="image" src="https://github.com/user-attachments/assets/6d8a3150-d918-41c3-8786-7821200a496b">
 
 - **생성된 QR코드 공유** <br>
-  -사용자가 생성한 QR코드를 타 사용자에게 공유
+  - 사용자가 생성한 QR코드를 타 사용자에게 공유
 <img width="423" alt="image" src="https://github.com/user-attachments/assets/bdff4f47-ccb8-4e72-a215-707b7fca4305"> 
 
 - **메뉴 즐겨찾기** <br>
-  -사용자가 선택한 메뉴를 저장하는 기능으로 사용자가 차후 같은 메뉴를 주문하려고 할 시 즐겨찾기 기능을 통해 시간을 절약
+  - 사용자가 선택한 메뉴를 저장하는 기능으로 사용자가 차후 같은 메뉴를 주문하려고 할 시 즐겨찾기 기능을 통해 시간을 절약
 <img width="409" alt="image" src="https://github.com/user-attachments/assets/975f2b32-6ccf-465f-9979-7c3a43b080ab"> 
 
 - **커뮤니티 피드** <br>
-  -타사용자에게 자신만의 메뉴 조합을 추천 및 댓글기능을 활용하여 의견 공유
+  - 타사용자에게 자신만의 메뉴 조합을 추천 및 댓글기능을 활용하여 의견 공유
 <img width="427" alt="image" src="https://github.com/user-attachments/assets/2779c8a8-c39a-4efa-87de-54f7d8f4a0bf"> 
   
 - **AI 메뉴 추천 기능** <br>
-  -사용자의 주문내역을 토대로 AI를 활용하여 사용자에게 맞춤 메뉴 추천
+  - 사용자의 주문내역을 토대로 AI를 활용하여 사용자에게 맞춤 메뉴 추천
 <img width="720" src="https://github.com/PockyProject/App/assets/52391699/4b10d88c-37a3-4dd3-950a-51de883a7532">
 
 
