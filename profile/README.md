@@ -55,8 +55,8 @@
 | <center> Front-End </center> | <center> AndroidStudio(Java) </center> | <center> 한성진 ,정성욱 </center>                     |
 | <center>  Back-End </center> | <center> SpringBoot3,JPA  </center>                  | <center> 강주형 </center> |
 | <center>  Embedded-System </center> | <center> Python</center>                  | <center> 정민우 </center> |
-| <center>  AI </center> | <center> Python,FastAPI,AWS(EC2)</center>                  | <center> 강주형 </center> |
-| <center> ENV </center> | <center> Python,FastAPI</center>                  | <center> 강주형 </center> |
+| <center>  AI </center> | <center> Python,FastAPI</center>                  | <center> 강주형 </center> |
+| <center> ENV </center> | <center> Docker, Ec2 </center>                  | <center> 강주형 </center> |
 
 
 ### **<목차>**
