@@ -202,7 +202,7 @@
 
 ## 3-1. 아키텍처 구성도
 
-![image](https://github.com/user-attachments/assets/9e20788b-343e-44b8-b1fb-a68671a3865f)
+![image](![아키텍처 구성도 drawio](https://github.com/user-attachments/assets/9ace4bd3-d082-4285-9fa4-ffb8bbf24d94)
 
 ---
 
