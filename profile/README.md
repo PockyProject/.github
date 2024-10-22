@@ -55,8 +55,7 @@
 | <center> Front-End </center> | <center> AndroidStudio(Java) </center> | <center> 한성진 ,정성욱 </center>                     |
 | <center>  Back-End </center> | <center> SpringBoot3,JPA  </center>                  | <center> 강주형 </center> |
 | <center>  Embedded-System </center> | <center> Python</center>                  | <center> 정민우 </center> |
-| <center>  AI </center> | <center> Python,FastAPI</center>                  | <center> 강주형 </center> |
-| <center> ENV </center> | <center> Docker, Ec2 </center>                  | <center> 강주형 </center> |
+| <center> ENV </center> | <center> Docker, Ec2,k8s </center>                  | <center> 강주형 </center> |
 
 
 ### **<목차>**
@@ -202,7 +201,8 @@
 
 ## 3-1. 아키텍처 구성도
 
-![image](![아키텍처 구성도 drawio](https://github.com/user-attachments/assets/9ace4bd3-d082-4285-9fa4-ffb8bbf24d94)
+![아키텍처 구성도 drawio](https://github.com/user-attachments/assets/e0fdef0a-8208-4fbe-9154-f7c3e6917941)
+)
 
 ---
 
