@@ -207,8 +207,8 @@
 ---
 
 **4️⃣,ERD**
+<img width="1183" alt="스크린샷 2024-11-04 오후 5 38 15" src="https://github.com/user-attachments/assets/6e90c7df-ca53-4927-8794-19af91378ab2">
 
-![image](https://github.com/user-attachments/assets/a513493a-23f9-4c98-8dde-cd41d4cad47d)
 
 ---
 
